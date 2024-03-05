@@ -1,5 +1,8 @@
 # CS3219 OTOT Task A1
 
+This repository marks my solution to Task A1. The code here has been set up for dockerizing as well as reverse proxying with nginx.
+
+
 CS3219 OTOT Task A1 is split into 3 parts. Read up on reverse proxy [here](https://www.upguard.com/blog/reverse-proxy-vs-load-balancer).
 
 First, clone the repository
